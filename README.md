@@ -1,14 +1,20 @@
 <div align="center">
 
+<sub>hello, i'm</sub>
+
 # Maria Luiza Mol
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&repeat=true&width=760&lines=Back-end+Developer+in+progress;Building+with+Java%2C+one+project+at+a+time;Learning+by+building+%E2%80%A2+improving+by+shipping" alt="Typing animation" />
+**Back-end em formação · Java como linguagem principal**
 
-`Análise e Desenvolvimento de Sistemas` · `Java` · `Back-end`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=1100&color=A855F7&center=true&vCenter=true&repeat=true&width=680&height=32&lines=learning+by+building;turning+ideas+into+working+software;one+commit+closer+to+back-end" alt="Typing animation" />
 
-<a href="https://www.linkedin.com/in/maria-luiza-ads"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=A855F7" alt="LinkedIn" /></a>
-<a href="https://luizamoll.github.io/Curriculo/"><img src="https://img.shields.io/badge/Currículo-18181B?style=flat-square&logo=readme&logoColor=A855F7" alt="Currículo" /></a>
-<a href="mailto:mluizamoll@gmail.com"><img src="https://img.shields.io/badge/Contato-18181B?style=flat-square&logo=gmail&logoColor=A855F7" alt="E-mail" /></a>
+<sub>ADS · Belo Horizonte, Brasil</sub>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/maria-luiza-ads"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn" /></a>
+<a href="https://luizamoll.github.io/Curriculo/"><img src="https://img.shields.io/badge/Currículo-0d1117?style=for-the-badge&logo=readme&logoColor=A855F7" alt="Currículo" /></a>
+<a href="mailto:mluizamoll@gmail.com"><img src="https://img.shields.io/badge/Contato-0d1117?style=for-the-badge&logo=gmail&logoColor=A855F7" alt="Contato" /></a>
 
 </div>
 
