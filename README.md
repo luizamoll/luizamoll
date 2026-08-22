@@ -1,22 +1,24 @@
 <div align="center">
 
-<sub>hello, i'm</sub>
+<sub>HELLO, I'M</sub>
 
 # Maria Luiza Mol
 
-**Back-end em formação · Java como linguagem principal**
+### Back-end em formação · Java como linguagem principal
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=1100&color=A855F7&center=true&vCenter=true&repeat=true&width=680&height=32&lines=learning+by+building;turning+ideas+into+working+software;one+commit+closer+to+back-end" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=1100&color=A855F7&center=true&vCenter=true&repeat=true&width=720&height=34&lines=learning+by+building;turning+ideas+into+working+software;one+commit+closer+to+back-end" alt="Typing animation" />
 
 <sub>ADS · Belo Horizonte, Brasil</sub>
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/maria-luiza-ads"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn" /></a>
-<a href="https://luizamoll.github.io/Curriculo/"><img src="https://img.shields.io/badge/Currículo-0d1117?style=for-the-badge&logo=readme&logoColor=A855F7" alt="Currículo" /></a>
-<a href="mailto:mluizamoll@gmail.com"><img src="https://img.shields.io/badge/Contato-0d1117?style=for-the-badge&logo=gmail&logoColor=A855F7" alt="Contato" /></a>
+<a href="https://www.linkedin.com/in/maria-luiza-ads"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://luizamoll.github.io/Curriculo/"><img src="https://img.shields.io/badge/Ver_Currículo-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="Currículo" /></a>&nbsp;
+<a href="mailto:mluizamoll@gmail.com"><img src="https://img.shields.io/badge/E--mail-24292F?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 
 </div>
+
+<br>
 
 ---
 
@@ -48,50 +50,76 @@ class MariaLuiza {
 
 <sub>Essas tecnologias fazem parte da trilha que estou construindo e não representam, necessariamente, domínio profissional.</sub>
 
-### `> selected_work`
+<br>
+
+### `> selected work`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### ImobControl
-Sistema para organizar regras financeiras de empreendimentos imobiliários: vendas, parcelas, impostos, comissões e repasses.
+<sub>01 · PRODUCT / BUSINESS LOGIC</sub>
 
-**O que ele demonstra:** modelagem de um problema real e evolução de produto.
+### ImobControl
 
-<a href="https://github.com/luizamoll/imobcontrol-finance-dashboard">→ explorar projeto</a>
+Sistema para organizar **vendas, parcelas, impostos, comissões e repasses** de empreendimentos imobiliários.
+
+`regras de negócio` `produto` `full-stack`
+
+<sub>Em evolução para uma arquitetura com back-end Java próprio.</sub>
+
+<br>
+<a href="https://github.com/luizamoll/imobcontrol-finance-dashboard"><b>explorar projeto ↗</b></a>
 
 </td>
 <td width="50%" valign="top">
 
-#### Java Back-end Studies
-Meu laboratório de Java: fundamentos, exercícios e implementações que documentam a evolução do estudo para back-end.
+<sub>02 · JAVA / LEARNING LAB</sub>
 
-**Foco atual:** fundamentos da linguagem e orientação a objetos.
+### Java Back-end Studies
 
-<a href="https://github.com/luizamoll/java-backend-studies">→ acompanhar evolução</a>
+Laboratório onde transformo **fundamentos de Java e orientação a objetos** em código e pequenos projetos.
+
+`java` `poo` `back-end`
+
+<sub>Repositório vivo: cresce junto com a minha trilha de estudo.</sub>
+
+<br>
+<a href="https://github.com/luizamoll/java-backend-studies"><b>acompanhar evolução ↗</b></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### MarketArt
-Projeto acadêmico voltado a uma plataforma de compra e venda de pacotes de arte.
+<sub>03 · ACADEMIC PRODUCT</sub>
 
-**O que ele demonstra:** construção de produto a partir de uma ideia e trabalho acadêmico aplicado.
+### MarketArt
 
-<a href="https://github.com/luizamoll/MarketArt">→ explorar projeto</a>
+Projeto acadêmico de uma plataforma para **compra e venda de pacotes de arte**, partindo da ideia até a construção do produto.
+
+`produto digital` `projeto acadêmico` `web`
+
+<sub>Explora organização de solução, experiência e construção colaborativa.</sub>
+
+<br>
+<a href="https://github.com/luizamoll/MarketArt"><b>explorar projeto ↗</b></a>
 
 </td>
 <td width="50%" valign="top">
 
-#### Currículo Tech
-Currículo web criado para centralizar formação, trajetória e caminhos de contato em uma experiência navegável.
+<sub>04 · PERSONAL WEB</sub>
 
-**O que ele demonstra:** apresentação profissional e publicação web.
+### Currículo Tech
 
-<a href="https://luizamoll.github.io/Curriculo/">→ abrir currículo</a>
+Currículo digital navegável criado para centralizar **formação, trajetória, projetos e contato**.
+
+`web` `github pages` `portfolio`
+
+<sub>Uma apresentação profissional que também registra minha evolução.</sub>
+
+<br>
+<a href="https://luizamoll.github.io/Curriculo/"><b>abrir experiência ↗</b></a>
 
 </td>
 </tr>
