@@ -2,70 +2,114 @@
 
 # Maria Luiza Mol
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=Back-end+Developer+in+progress;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+REST+APIs;Building+real+projects%2C+learning+by+doing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&repeat=true&width=760&lines=Back-end+Developer+in+progress;Building+with+Java%2C+one+project+at+a+time;Learning+by+building+%E2%80%A2+improving+by+shipping" alt="Typing animation" />
 
-**Análise e Desenvolvimento de Sistemas · Back-end · Java**
+`Análise e Desenvolvimento de Sistemas` · `Java` · `Back-end`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-luiza-ads)
-[![Currículo](https://img.shields.io/badge/Curr%C3%ADculo-111111?style=for-the-badge&logo=readme&logoColor=white)](https://luizamoll.github.io/Curriculo/)
-[![E-mail](https://img.shields.io/badge/E--mail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mluizamoll@gmail.com)
+<a href="https://www.linkedin.com/in/maria-luiza-ads"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=A855F7" alt="LinkedIn" /></a>
+<a href="https://luizamoll.github.io/Curriculo/"><img src="https://img.shields.io/badge/Currículo-18181B?style=flat-square&logo=readme&logoColor=A855F7" alt="Currículo" /></a>
+<a href="mailto:mluizamoll@gmail.com"><img src="https://img.shields.io/badge/Contato-18181B?style=flat-square&logo=gmail&logoColor=A855F7" alt="E-mail" /></a>
 
 </div>
 
 ---
 
-## Sobre mim
+### `> about`
+
+Estudante de **Análise e Desenvolvimento de Sistemas**, direcionando minha formação para **desenvolvimento back-end com Java**.
+
+Aprendo melhor construindo. Por isso, este perfil acompanha a evolução entre fundamentos, experimentos e projetos reais — sem transformar tecnologia que ainda estou estudando em experiência que ainda não tenho.
 
 ```java
-public class MariaLuiza {
-    String role = "Back-end Developer in progress";
-    String degree = "Análise e Desenvolvimento de Sistemas";
-    String focus = "Java e desenvolvimento back-end";
-    String approach = "Aprender construindo projetos reais";
+class MariaLuiza {
+    String direction = "Back-end";
+    String mainLanguage = "Java";
+    String mindset = "learn -> build -> understand -> improve";
 }
 ```
 
-Estou construindo minha formação em desenvolvimento back-end com foco em **Java**, programação orientada a objetos, APIs REST, bancos de dados e boas práticas de engenharia de software.
+### `> toolkit`
 
-Meu objetivo é transformar estudo em projeto: aprender um conceito, aplicá-lo e registrar a evolução no GitHub.
+**Uso nos estudos e projetos**
 
-## Stack em construção
+<p>
+  <img src="https://skillicons.dev/icons?i=java,git,github,idea&theme=dark" alt="Java, Git, GitHub e IntelliJ IDEA" />
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,git,github,mysql,postgres,idea&perline=7" alt="Tecnologias em estudo" />
-</div>
+**Entrando no meu radar técnico**
 
-**Foco principal:** `Java` · `POO` · `Spring Boot` · `REST APIs` · `SQL` · `Git` · `GitHub`
+`Spring Boot` · `REST APIs` · `SQL` · `PostgreSQL` · `Testes automatizados`
 
-Também tenho contato com `Python`, `TypeScript` e `React` durante a formação acadêmica e em projetos.
+<sub>Essas tecnologias fazem parte da trilha que estou construindo e não representam, necessariamente, domínio profissional.</sub>
 
-## Projetos em destaque
+### `> selected_work`
 
-| Projeto | O que estou construindo | Tecnologias / foco |
-|---|---|---|
-| **[ImobControl](https://github.com/luizamoll/imobcontrol-finance-dashboard)** | Sistema para controle financeiro de empreendimentos imobiliários, vendas, parcelas, impostos, comissões e repasses. | Regras de negócio · Full-stack · evolução para Java/Spring Boot |
-| **[Java Back-end Studies](https://github.com/luizamoll/java-backend-studies)** | Repositório de estudos, exercícios e projetos que registram minha evolução em Java e back-end. | Java · POO · Back-end |
-| **[Currículo Tech](https://github.com/luizamoll/Curriculo)** | Currículo web voltado para oportunidades em desenvolvimento de software e back-end. | Web · GitHub Pages · apresentação profissional |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Agora estou aprendendo
+#### ImobControl
+Sistema para organizar regras financeiras de empreendimentos imobiliários: vendas, parcelas, impostos, comissões e repasses.
+
+**O que ele demonstra:** modelagem de um problema real e evolução de produto.
+
+<a href="https://github.com/luizamoll/imobcontrol-finance-dashboard">→ explorar projeto</a>
+
+</td>
+<td width="50%" valign="top">
+
+#### Java Back-end Studies
+Meu laboratório de Java: fundamentos, exercícios e implementações que documentam a evolução do estudo para back-end.
+
+**Foco atual:** fundamentos da linguagem e orientação a objetos.
+
+<a href="https://github.com/luizamoll/java-backend-studies">→ acompanhar evolução</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### MarketArt
+Projeto acadêmico voltado a uma plataforma de compra e venda de pacotes de arte.
+
+**O que ele demonstra:** construção de produto a partir de uma ideia e trabalho acadêmico aplicado.
+
+<a href="https://github.com/luizamoll/MarketArt">→ explorar projeto</a>
+
+</td>
+<td width="50%" valign="top">
+
+#### Currículo Tech
+Currículo web criado para centralizar formação, trajetória e caminhos de contato em uma experiência navegável.
+
+**O que ele demonstra:** apresentação profissional e publicação web.
+
+<a href="https://luizamoll.github.io/Curriculo/">→ abrir currículo</a>
+
+</td>
+</tr>
+</table>
+
+### `> now`
 
 ```text
-Java fundamentals      █████████░  em evolução
-Orientação a objetos   ████████░░  em evolução
-Spring Boot            ████░░░░░░  estudando
-APIs REST              ████░░░░░░  estudando
-SQL / PostgreSQL       ███░░░░░░░  próximo foco
-Testes automatizados   ██░░░░░░░░  próximo foco
+01  aprofundando Java e orientação a objetos
+02  transformando conceitos em pequenos projetos
+03  evoluindo para APIs e persistência de dados
+04  construindo repertório para back-end Java
 ```
 
-## Próximos passos
+### `> next`
 
-Construir APIs com Spring Boot, adicionar persistência com PostgreSQL, implementar testes automatizados e evoluir o ImobControl para uma arquitetura com back-end Java próprio.
+O próximo salto é fazer o conhecimento aparecer no código: **Java → POO → Spring Boot → APIs REST → SQL/PostgreSQL → testes**.
+
+Cada tecnologia sobe para a seção principal do perfil conforme deixa de ser apenas estudo e passa a existir de forma concreta nos projetos.
 
 ---
 
 <div align="center">
 
-**Construindo uma base sólida antes de aumentar a complexidade.**
+<sub>code · curiosity · consistency</sub>
 
 </div>
