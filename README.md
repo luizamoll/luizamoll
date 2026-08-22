@@ -139,11 +139,3 @@ Currículo digital navegável criado para centralizar **formação, trajetória,
 O próximo salto é fazer o conhecimento aparecer no código: **Java → POO → Spring Boot → APIs REST → SQL/PostgreSQL → testes**.
 
 Cada tecnologia sobe para a seção principal do perfil conforme deixa de ser apenas estudo e passa a existir de forma concreta nos projetos.
-
----
-
-<div align="center">
-
-<sub>code · curiosity · consistency</sub>
-
-</div>
